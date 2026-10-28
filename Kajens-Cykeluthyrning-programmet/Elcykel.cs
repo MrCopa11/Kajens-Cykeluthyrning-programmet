@@ -5,7 +5,7 @@
     public Elcykel(int nummer, int batteri)
     {
         Nummer = nummer;
-        TimPris = 70m; // Timpris för elcykel
+        Timpris = 70m; // Timpris för elcykel
         Batteri = batteri;
     }
 }
